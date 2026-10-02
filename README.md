@@ -43,3 +43,6 @@ The main objective is to provide an interactive business intelligence solution t
 
 BE – Artificial Intelligence and Machine Learning  
 2027
+## 📸 Dashboard Preview
+
+![Customer Behaviour Dashboard](dashboard.png)
